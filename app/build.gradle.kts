@@ -46,6 +46,6 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 //    implementation("com.github.kauramanp:toasty:1.0")
-    implementation("com.github.kauramanp:Test:v1.0.0")
+    implementation("com.github.kauramanp:BlinkLibrary:v1.0.0")
 
 }
